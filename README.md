@@ -6,5 +6,9 @@
   * :+1:     [![website](https://img.shields.io/badge/https://dengchengsheng.netlify.com/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://dengchengsheng.netlify.com/) 
   ### Hobbies 
   *  :basketball: (I am a diehard Lakers fan and my favorite player is Kobe Bryant with no doubt. R.I.P Kobe :disappointed: ) 
-  *  :computer:   Play Video Game 
+  *  :computer:   Play Video Game  
+  ### Goals of 2022 
+  * Learn second programming language  
+  * Finsih graduate school application 
+  * Step into Deep Learning :laughing:
   ### Ask me about anything! I love to help! :sunglasses:  
