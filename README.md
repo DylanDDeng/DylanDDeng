@@ -9,6 +9,5 @@
   *  :computer:   Play Video Game  
   ### Goals of 2023
   * Learn second programming language  
-  * Finsih graduate school application 
   * Step into Deep Learning :laughing:
   ### Ask me about anything! I love to help! :sunglasses:  
