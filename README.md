@@ -8,6 +8,6 @@
   *  :basketball: (I am a diehard Lakers fan and my favorite player is Kobe Bryant with no doubt. R.I.P Kobe :disappointed: ) 
   *  :computer:   Play Video Game  
   ### Goals of 2023
-  * Learn second programming language  
+  * Learn second programming language - Java
   * Step into Deep Learning :laughing:
   ### Ask me about anything! I love to help! :sunglasses:  
