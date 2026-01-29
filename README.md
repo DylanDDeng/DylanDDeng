@@ -1,4 +1,4 @@
-### Hi there, I'm Chengsheng 👋 
+### Hi there, I'm BubbleBrain 👋 
 * 🌱  I graduated from Boston University in statistics major and now I am preparing for my second degree application. I love learnig everything about data and Python is my first programming language. So you can see many learning notes in my GitHub. 
  ### Where to find me 
   * :star:    [![Linkedin Badge](https://img.shields.io/badge/-ChengshengDeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ChengshengDeng/)](https://linkedin.com/in/ChengshengDeng) 
@@ -7,7 +7,5 @@
   ### Hobbies 
   *  :basketball: (I am a diehard Lakers fan and my favorite player is Kobe Bryant with no doubt. R.I.P Kobe :disappointed: ) 
   *  :computer:   Play Video Game  
-  ### Goals of 2023
-  * Learn second programming language - Java
-  * Step into Deep Learning :laughing:
+
   ### Ask me about anything! I love to help! :sunglasses:  
