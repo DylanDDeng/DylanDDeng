@@ -5,6 +5,8 @@
 * 🚀 Always exploring the intersection of data science, NLP, and AI-powered solutions.
 * 😢 I am not good at programming.
 
+> Vibe Coding Now!
+
 ### Projects
 
 * 🐮 **[bubble-cowork](https://github.com/DylanDDeng/bubble-cowork)** - An AI-powered collaborative workspace that helps teams work smarter together. Features intelligent task management, real-time collaboration, and AI-assisted productivity tools.
