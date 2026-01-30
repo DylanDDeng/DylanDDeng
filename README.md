@@ -9,11 +9,10 @@
 
 * 🐮 **[bubble-cowork](https://github.com/DylanDDeng/bubble-cowork)** - An AI-powered collaborative workspace that helps teams work smarter together. Features intelligent task management, real-time collaboration, and AI-assisted productivity tools.
 
-### Where to find me
+### Where to find me 
 
-* ⭐ [![Linkedin Badge](https://img.shields.io/badge/-ChengshengDeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ChengshengDeng/)](https://linkedin.com/in/ChengshengDeng)
-* 📧 [![Gmail Badge](https://img.shields.io/badge/-dylandeng1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dylanden@bu.edu)](mailto:chengshengdeng@gmail.com)
-* 🌐 [![website](https://img.shields.io/badge/https://dengchengsheng.netlify.com/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://bubblenews.today)
+* 📧 [![Gmail Badge](https://img.shields.io/badge/-chengshengdeng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dylanden@bu.edu)](mailto:chengshengdeng@gmail.com)
+* 🌐 [![website](https://img.shields.io/badge/https://bubblenews.today-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://bubblenews.today)
 
 ### Hobbies
 
